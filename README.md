@@ -1,5 +1,6 @@
-
 # Dossiers on Nuclear Physics
+Note! Just to be clear: *I am an independent learner, and not affiliated with any organization*.
+
 ## Background Information
 This repository aims to collect notes,references as well as theoretical discussions related to nuclear physics.
 
