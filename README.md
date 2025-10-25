@@ -1,5 +1,7 @@
 # Dossiers on Nuclear Physics
-Note! Just to be clear: *I am an independent learner, and not affiliated with any organization*.
+## First words from the author
+**Note**, I am **not affiliated with any military, governmental, or research organization,** and I am personally against violence and/or weapons development.
+My focus is just on learning, because it's interesting.
 
 ## Background Information
 This repository aims to collect notes,references as well as theoretical discussions related to nuclear physics.
